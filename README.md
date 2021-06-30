@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Kolade 👋🏽
+
+
+
+
 
 <!--
 **corlard3y/corlard3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
