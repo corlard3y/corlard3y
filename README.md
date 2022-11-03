@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 # Kolade Joseph Oyewumi 👋🏾:
 
 - 📱 I currently work as a Frontend Engineer.
-- 💻 You can find me immersed in upskilling React/React Native, Node JS, Solidity.
-- 🌱 I’m currently learning Solidity, Node JS && Algo & DS ⏳
 - 💬 Ask me about Javascript, React JS, Tailwind CSS.
 
 ## Reach me via:
