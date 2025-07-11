@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 -->
 # Kolade Joseph Oyewumi 👋🏾:
 
-- 📱 I currently work as a Frontend Engineer.
-- 💬 Ask me about Javascript, React JS, Tailwind CSS.
+- 👨🏾‍💻 SWE
+- 🔭 Currently building things on the frontend (and quietly plotting more 🌚)
+- 🌱 I’m currently learning devops, cloud engr.
+- 👯 I’m looking to collaborate on exciting, brainstorming solutions
+- 📫 How to reach me: oyewumi.koladej@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not sleeping, I'm listening to my spotify playlists or DJ mixes
 
 ## Reach me via:
 
